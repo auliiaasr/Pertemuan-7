@@ -80,7 +80,7 @@
       ?>
         <div class="col-sm-3 mb-3">
           <div class="card" style="width: 15rem">
-            <a href="">
+            <a href="detail.php?id=<?= $row->id; ?>">
               <img src="https://altfilmlens.files.wordpress.com/2015/11/the_good_dinosaur_promo_art_03.jpg" class="card-img-top" alt="" />
             </a>
             <div class="card-body">
